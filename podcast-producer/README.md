@@ -34,7 +34,7 @@ Includes a configurable **style mode** for AI-narrated shows vs human-hosted sho
 ## Installation
 
 ```bash
-npx clawhub install your-github-username/podcast-producer
+npx clawhub install tetsuakira-vk/podcast-producer
 ```
 
 ---
